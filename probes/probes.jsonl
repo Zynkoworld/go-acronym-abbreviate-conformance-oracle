@@ -1,0 +1,9 @@
+{"input": "Portable Network Graphics", "expect": "PNG", "raised": false, "task": "acronym", "lang": "go"}
+{"input": "Ruby on Rails", "expect": "ROR", "raised": false, "task": "acronym", "lang": "go"}
+{"input": "First In, First Out", "expect": "FIFO", "raised": false, "task": "acronym", "lang": "go"}
+{"input": "GNU Image Manipulation Program", "expect": "GIMP", "raised": false, "task": "acronym", "lang": "go"}
+{"input": "Complementary metal-oxide semiconductor", "expect": "CMOS", "raised": false, "task": "acronym", "lang": "go"}
+{"input": "Rolling On The Floor Laughing So Hard That My Dogs Came Over And Licked Me", "expect": "ROTFLSHTMDCOALM", "raised": false, "task": "acronym", "lang": "go"}
+{"input": "Something - I made up from thin air", "expect": "SIMUFTA", "raised": false, "task": "acronym", "lang": "go"}
+{"input": "Halley's Comet", "expect": "HC", "raised": false, "task": "acronym", "lang": "go"}
+{"input": "The Road _Not_ Taken", "expect": "TRNT", "raised": false, "task": "acronym", "lang": "go"}
